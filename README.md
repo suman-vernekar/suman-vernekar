@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 I am a Computer Science student with a strong interest in Web Development, focused on creating responsive and user-friendly web applications using HTML, CSS, and JavaScript. <br>
 I enjoy learning modern web technologies and improving my problem-solving and coding skills through practice and projects. <br>
 I am actively seeking opportunities to gain hands-on experience through internships, collaborate with teams, and work on real-world applications that help me grow as a web developer while contributing effectively to projects.
